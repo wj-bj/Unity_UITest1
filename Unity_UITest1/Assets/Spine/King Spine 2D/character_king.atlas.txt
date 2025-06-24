@@ -1,0 +1,48 @@
+
+character_king.png
+size: 416, 475
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 32
+  size: 441, 201
+  orig: 441, 201
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 373, 217
+  size: 27, 19
+  orig: 31, 22
+  offset: 2, 2
+  index: -1
+eye1
+  rotate: false
+  xy: 2, 13
+  size: 21, 17
+  orig: 24, 20
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 205, 238
+  size: 209, 235
+  orig: 212, 238
+  offset: 1, 1
+  index: -1
+shoulder1
+  rotate: false
+  xy: 205, 107
+  size: 166, 129
+  orig: 169, 136
+  offset: 1, 6
+  index: -1
+shoulder2
+  rotate: true
+  xy: 205, 2
+  size: 103, 112
+  orig: 105, 115
+  offset: 1, 2
+  index: -1
